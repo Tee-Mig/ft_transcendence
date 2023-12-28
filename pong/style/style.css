@@ -1,0 +1,16 @@
+body
+{
+	text-align: center;
+}
+
+h1
+{
+	color:dodgerblue;
+}
+
+#pongCanvas
+{
+	background-color: black;
+	border-top: 0.5vh solid violet;
+	border-bottom: 0.5vh solid violet;
+}
